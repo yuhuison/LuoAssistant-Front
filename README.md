@@ -2,4 +2,4 @@
 
 项目演示地址 https://www.bilibili.com/video/BV1tZ4y1f7WG
 
-![QQ截图20220117130511](C:\Users\LENOVO\Documents\GitHub\LuoAssistant-Front\README.assets\demo.png)
+![QQ截图20220117130511](README.assets\demo.png)
